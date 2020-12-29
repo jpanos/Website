@@ -4,26 +4,26 @@ layout: template
 filename: index
 --- 
 
-# patrickandfrantonarethebestninjas
+# ECE 477 Sowin' Seeds
 
-## Created by [Patrick Huston](http://www.patrickhuston.com/) and [Franton Lin](frantonlin.com)
+## Sub head testing
 
-#### What is patrickandfrantonarethebestninjas?
-This project aims to demonstrate without a doubt why Patrick and Franton are the best ninjas. 
+This is an example landing page for our website 2.0 step one is going to be adding on new pages to the site to increase the ability to navigate our site.
 
-#### How can I use patrickandfrantonarethebestninjas?
-Come to office hours and git tutorials. Baked goods and cash are also accepted.
+## Project Description
 
-#### Dependencies
-patrickandfrantonarethebestninjas depends heavily on the perception of students. A lot of research has been done looking into ways of monitoring and directly modifying how students perceive ninjas, and we have implemented this technology to the fullest extent. 
+Sowin' Seeds is developing a pollination drone. This project is inspired by the premise that global pollinator populations are decreasing at an alarming rate, and this could wreak havoc on the agricultural industry and the global food supply. This pollination drone aims to cross pollinate crops with minimal human input. For the scope of our inital prototype, our drone will target apple blossoms, but could be extended beyond one species in the future. Not only could our product be used in fields and orchards it could also be used in, for example, greenhouses, urban gardens, and other applications where pollinators are not easily available. The drone will be equipped with a Jetson Nano to perform most of the image processing tasks, and STM32H7 to make important flight decisions and process positional data, among other control operations, and a PixHawk flight controller for the drone.
 
-#### How to contribute?
-To contribute to patrickandfrantonarethebestninjas, write a heart-felt love note and submit a PR. 
+## Team Members:
 
-#### License
+  - Moiz Rasheed, Team Lead, Email: 
+  - Josh Panos, Hardware Engineer, Email: Joshua.Panos1@gmail.com
+  - Jackie Malayter, Systems Engineer, Email: 
+  - Ethan Campbell, Software Engineer, Email:
+  
+  
+## Planned improvments
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  - Creating a functional final PCB mount so that we can limit the need for development boards on our drone.
+  - Improve algorithm for flower detection so that it can work with an expanded range of colors and shapes. 
+  - TBD
